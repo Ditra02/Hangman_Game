@@ -12,7 +12,6 @@
     <li>Get the word that will be guessed by player <br>
       I get the words from github repo simply by put the link of the txt file inside the `getWords1.py` and it will be saved as a list
     <li>The game flow <br>
-      
     <li>Chance Visualization <br>
       
   <ol>
