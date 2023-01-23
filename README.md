@@ -7,4 +7,4 @@
 
 When I made this game, I divide the process into 3 part below:
 1. Get the word that will be guessed by player <br>
-   I get the words from github repo simply by put the link of the txt file inside the and it will be saved as a list
+   I get the words from github repo simply by put the link of the txt file inside `getWords1.py` and it will be saved as a list
