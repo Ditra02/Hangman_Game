@@ -1,7 +1,7 @@
 # Hangman_Game
 
 <div allign="center">
-  ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+  <img src="https://i.gyazo.com/81ca3e17a698bd712d0766d50ca0cef7.png" alt="Girl in a jacket" width="500" height="600">
 <div>
   
 When i made this game, I divide the process into 3 part below:
