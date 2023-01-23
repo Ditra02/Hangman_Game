@@ -12,5 +12,6 @@ When I made this game, I divide the process into 3 part below:
    I get the words from github repository simply by put the link of the txt file inside `getWords1.py` and it will be opened by urllib. Finally, the words saved as a list. You can see the implementation in [getWords](https://github.com/Ditra02/Hangman_game/tree/main/getWord) file.
 
 2. The Flow of the game correspond to the rules
-   I made flowchart to map all condition where the player got wrong or true while guessed a letter and win or lose at the end of the game.
-4. Chance visualization
+   I made flowchart to map all condition where the player got wrong or true while guessed a letter and win or lose at the end of the game. You can see the flowchart [here](https://github.com/Ditra02/Hangman_game/blob/main/hangman_flowchart.drawio.png)
+   
+3. Chance visualization
