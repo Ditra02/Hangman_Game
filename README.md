@@ -5,6 +5,7 @@
 </div>
 
 <div>
+  <p></p>
   When i made this game, I divide the process into 3 part below:
   <ol>
     <li>Get the word that will be guessed by player
