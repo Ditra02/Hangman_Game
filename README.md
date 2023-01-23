@@ -18,5 +18,5 @@ When I made this game, I divide the process into 3 part below:
    I also used [visualization](https://raw.githubusercontent.com/kying18/hangman/master/hangman_visual.py) which exists in github repository. Same as before, I used the urllib module to get the file and save it as a `visualLives.py`.
    
 <hr>
-References:
+References: <br>
 - https://pypi.org/project/urllib3/
