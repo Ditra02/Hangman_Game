@@ -1,6 +1,7 @@
 # Hangman_Game
 
 <div align="center">
+  <hr/>
   <img src="https://i.gyazo.com/81ca3e17a698bd712d0766d50ca0cef7.png" alt="Hangman Logo" width="500">
 </div>
 
