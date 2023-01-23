@@ -19,7 +19,6 @@ When I made this game, I divide the process into 3 part below:
    
 <hr>
 References: <br>
-
 - George Washington
 * John Adams
 + Thomas Jefferson
